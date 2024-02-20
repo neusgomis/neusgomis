@@ -10,8 +10,5 @@ Let's learn, grow, and innovate together! 💻✨
 ![6FEDC792-0ACF-4B79-B362-29DE6B6C6B3D_1_201_a](https://github.com/neusgomis/neusgomis/assets/123258143/90a0ebbb-4500-420e-bf25-f29a2f071d48)
 
 ## Contact
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/neus-gomis"
+<a href="https://linkedin.com/in/neus-gomis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neus-gomis" height="30" width="40" /></a>
 
